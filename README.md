@@ -37,4 +37,4 @@
 
 1. 克隆仓库到本地：
    ```bash
-   git clone https://github.com/你的用户名/仓库名.git
+   git clone https://github.com/Heinrich-Gao/shell.git
