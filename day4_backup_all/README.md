@@ -20,6 +20,6 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone <你的仓库地址>
+git clone <（https://github.com/Heinrich-Gao/shell)>
 cd <day4_backup_all/README.md>
 
