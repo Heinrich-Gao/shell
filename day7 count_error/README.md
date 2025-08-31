@@ -20,6 +20,6 @@
 
 ### 1. 克隆仓库
 ```bash
-git clone <你的仓库地址>
-cd <仓库目录>
+git clone <https://github.com/Heinrich-Gao/shell.git>
+cd <day7 count_error>
 
