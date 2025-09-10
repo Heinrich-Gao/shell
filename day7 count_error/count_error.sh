@@ -4,7 +4,7 @@
 
 #count_error 函数：统计文件中包含 ”ERROR" 的行数（不区分大小写）
 count_error() {
-    local file="$1"      #传入的文件路径
+    local file="$1"      #取调用函数时传进来的第 1 个参数
     local count          #用于存储统计结果
     count=$(grep -ci "ERROR" "$file")    #统计匹配行数
     echo "$count"
